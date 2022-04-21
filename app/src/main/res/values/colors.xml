@@ -10,5 +10,6 @@
     <color name="underline">#D8D6D6</color>
     <color name="grey">#AAAAAAAA</color>
     <color name="teal_light">#BBEEE2</color>
+    <color name="transparent">#00ffffff</color>
 
 </resources>
