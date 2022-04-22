@@ -1,14 +1,6 @@
 <resources>
-    <string name="app_name">RESTAURANTS HI RESTAURANTS</string>
-    <string name="restaurants_hi_restaurants">RESTAURANTS HI RESTAURANTS</string>
-    <string name="rp_1_000_000">Rp 1.000.000</string>
-    <string name="_30_maret_2021">30-Maret-2021</string>
-    <string name="belanja">Belanja</string>
-    <string-array name="programming_languages">
-        <item>Kotlin</item>
-    </string-array>
-
-    <string-array name="description">
-        <item>This is a random description</item>
-    </string-array>
+    <string name="app_name"> </string>
+    <string name="location">location</string>
+    <string name="number">number</string>
+    <string name="name">name</string>
 </resources>
