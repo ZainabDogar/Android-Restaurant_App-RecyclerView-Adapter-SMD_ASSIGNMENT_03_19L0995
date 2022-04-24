@@ -3,4 +3,9 @@
     <string name="location">location</string>
     <string name="number">number</string>
     <string name="name">name</string>
+    <string name="button">+</string>
+    <string name="login">REGISTER</string>
+    <string name="NAME">Name</string>
+    <string name="RATING">Rating</string>
+    <string name="PHONE">Phone</string>
 </resources>
